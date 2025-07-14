@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.e6c13ad2.css",
-    "main.js": "/my-react-app/static/js/main.5ff039ab.js",
-    "static/js/453.04ccbc7f.chunk.js": "/my-react-app/static/js/453.04ccbc7f.chunk.js",
-    "static/media/Electronic_locks.jpg": "/my-react-app/static/media/Electronic_locks.860207f695e453d2c107.jpg",
-    "static/media/revolving_door.jpg": "/my-react-app/static/media/revolving_door.b95fc13407de987e4a7b.jpg",
-    "static/media/glass_door.jpg": "/my-react-app/static/media/glass_door.17e23f44e253be6e0ef1.jpg",
-    "static/media/infrastructure.jpg": "/my-react-app/static/media/infrastructure.bd90dfc240289b902ec1.jpg",
-    "static/media/digital_door_lock.jpg": "/my-react-app/static/media/digital_door_lock.566128364fb0cea5c773.jpg",
-    "index.html": "/my-react-app/index.html",
-    "main.e6c13ad2.css.map": "/my-react-app/static/css/main.e6c13ad2.css.map",
-    "main.5ff039ab.js.map": "/my-react-app/static/js/main.5ff039ab.js.map",
-    "453.04ccbc7f.chunk.js.map": "/my-react-app/static/js/453.04ccbc7f.chunk.js.map"
+    "main.css": "/CSS_tech1/static/css/main.e6c13ad2.css",
+    "main.js": "/CSS_tech1/static/js/main.6d7456f4.js",
+    "static/js/453.04ccbc7f.chunk.js": "/CSS_tech1/static/js/453.04ccbc7f.chunk.js",
+    "static/media/Electronic_locks.jpg": "/CSS_tech1/static/media/Electronic_locks.860207f695e453d2c107.jpg",
+    "static/media/revolving_door.jpg": "/CSS_tech1/static/media/revolving_door.b95fc13407de987e4a7b.jpg",
+    "static/media/glass_door.jpg": "/CSS_tech1/static/media/glass_door.17e23f44e253be6e0ef1.jpg",
+    "static/media/infrastructure.jpg": "/CSS_tech1/static/media/infrastructure.bd90dfc240289b902ec1.jpg",
+    "static/media/digital_door_lock.jpg": "/CSS_tech1/static/media/digital_door_lock.566128364fb0cea5c773.jpg",
+    "index.html": "/CSS_tech1/index.html",
+    "main.e6c13ad2.css.map": "/CSS_tech1/static/css/main.e6c13ad2.css.map",
+    "main.6d7456f4.js.map": "/CSS_tech1/static/js/main.6d7456f4.js.map",
+    "453.04ccbc7f.chunk.js.map": "/CSS_tech1/static/js/453.04ccbc7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5ff039ab.js"
+    "static/js/main.6d7456f4.js"
   ]
 }
